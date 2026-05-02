@@ -1,4 +1,4 @@
-from matplotlib import pyplotas plt
+from matplotlib import pyplot as plt
 import pandas as pd
 
 df = pd.read_csv('avgIQpercountry.csv')
